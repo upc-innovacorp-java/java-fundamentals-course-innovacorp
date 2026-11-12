@@ -57,3 +57,9 @@ java-fundamentals-course-innovacorp/
 ├── course-plan.md
 └── README.md
 ```
+## Organización de los archivos
+
+- **starter-files/**: contiene los archivos iniciales de Java para desarrollar las actividades.
+- **completed-examples/**: contiene los ejemplos completos y soluciones de las actividades.
+- **scripts/**: contiene los guiones utilizados para desarrollar las lecciones en video.
+- **course-plan.md**: contiene el plan del curso, la secuencia de lecciones, los enlaces a los videos y las prácticas, y la información sobre la elaboración en equipo.
