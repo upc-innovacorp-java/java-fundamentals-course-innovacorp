@@ -62,3 +62,16 @@ Para desarrollar las actividades del curso se utilizarán los siguientes recurso
 - `scripts/`: Contiene los guiones correspondientes a las siete lecciones.
 - `README.md`: Presenta el proyecto y explica cómo utilizar el repositorio.
 - `course-plan.md`: Contiene la planificación y organización del curso.
+## 6. Metodología de enseñanza
+
+El curso utiliza una metodología práctica y progresiva. Cada lección introduce un concepto nuevo mediante explicaciones sencillas y ejemplos de programación en Java.
+
+La estructura general de cada lección es la siguiente:
+
+1. Presentación del tema y explicación del concepto.
+2. Demostración mediante ejemplos de código Java.
+3. Explicación de las instrucciones y los resultados obtenidos.
+4. Desarrollo de una actividad práctica utilizando JDoodle.
+5. Recapitulación de los conceptos aprendidos.
+
+Los estudiantes podrán practicar directamente desde el navegador, ejecutar sus programas y consultar los ejemplos resueltos disponibles en GitHub.
