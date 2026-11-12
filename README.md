@@ -9,3 +9,15 @@ El curso está dirigido a estudiantes de secundaria de 12 a 17 años sin experie
 El contenido se desarrolla progresivamente, desde los conceptos básicos de programación hasta una introducción a la programación orientada a objetos.
 
 **No se requiere instalar ningún programa.** Los ejercicios pueden realizarse utilizando herramientas gratuitas disponibles en línea.
+
+## Contenido del curso
+
+El curso comprende siete lecciones:
+
+1. Introducción a la programación y primeros pasos con Java.
+2. Variables y tipos de datos.
+3. Operadores y expresiones.
+4. Estructuras de control.
+5. Métodos, parámetros y entrada de datos.
+6. Programación orientada a objetos.
+7. Arreglos, cadenas de texto y buenas prácticas.
