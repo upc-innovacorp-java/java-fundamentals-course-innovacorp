@@ -91,7 +91,6 @@ Cada integrante es responsable de desarrollar las lecciones asignadas y proporci
 ## 8. Resultado esperado
 
 Al finalizar las siete lecciones, los estudiantes tendrán una comprensión básica de los fundamentos de Java y podrán desarrollar pequeños programas utilizando variables, operadores, estructuras de control, métodos, objetos y arreglos.
-
 Además, habrán realizado ejercicios prácticos mediante un editor de código en línea y podrán consultar los archivos del repositorio para reforzar los conocimientos adquiridos.
 ---
 
