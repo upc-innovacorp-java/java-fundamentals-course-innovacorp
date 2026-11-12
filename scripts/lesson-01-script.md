@@ -1,44 +1,14 @@
-# Lección 1: Introducción a la programación y primeros pasos con Java
+# Lección 1: Introducción a la programación y Java
 
-**Duración:** 5:19  
-**Tema:** Introducción a la programación y Java.  
-**Herramienta:** JDoodle.
+**Objetivo:** Comprender qué es la programación, conocer Java y ejecutar el primer programa.
 
-## 1. Objetivo
+### Desarrollo del video
 
-Comprender qué es la programación, conocer el lenguaje Java y ejecutar el primer programa.
+**Introducción:** Explicar qué es programar mediante un ejemplo cotidiano: darle instrucciones a una computadora para realizar una tarea.
 
-## 2. Introducción
+**Explicación:** Presentar Java como un lenguaje de programación utilizado para desarrollar diferentes aplicaciones.
 
-**Texto en pantalla:** ¿Qué es programar?
-
-**Narración:**
-
-¡Hola! Bienvenidos a nuestro curso de Fundamentos de Java para Principiantes.
-
-¿Alguna vez te has preguntado cómo sabe una computadora qué hacer cuando abrimos un juego o utilizamos una aplicación?
-
-La respuesta está en la programación. Programar significa darle instrucciones a una computadora para que realice determinadas tareas. Podemos compararlo con una receta: seguimos una serie de pasos para conseguir un resultado.
-
-## 3. Conociendo Java
-
-**Texto en pantalla:** Java: un lenguaje de programación.
-
-**Narración:**
-
-Java es un lenguaje de programación que permite crear diferentes tipos de aplicaciones y sistemas. Nos permite escribir instrucciones para que una computadora realice determinadas tareas.
-
-## 4. Demostración: primer programa
-
-**Texto en pantalla:** Nuestro primer programa: ¡Hola, mundo!
-
-**Narración:**
-
-Ahora vamos a escribir nuestro primer programa. Utilizaremos JDoodle, un editor que funciona directamente desde el navegador. No necesitamos instalar nada.
-
-Ingresamos a JDoodle, seleccionamos Java y escribimos el siguiente código.
-
-**Código en pantalla:**
+**Demostración:** Ingresar a JDoodle, seleccionar Java y ejecutar:
 
 ```java
 public class Main {
@@ -48,42 +18,21 @@ public class Main {
 }
 ```
 
-**Narración:**
+Explicar que `main` es el punto de inicio del programa y que `System.out.println` muestra mensajes en pantalla.
 
-La palabra `class` permite definir una clase llamada Main. El método `main` es el punto de inicio de nuestro programa.
+### Actividad práctica
 
-Finalmente, `System.out.println` permite mostrar un mensaje en pantalla.
+Modificar el mensaje para mostrar el nombre del estudiante y una frase personal. Ejecutar el programa y observar el resultado.
 
-Presionamos Execute y observamos el resultado: ¡Hola, mundo!
+### Conclusiones
 
-## 5. Actividad práctica
+- Programar consiste en dar instrucciones a una computadora.
+- Java permite desarrollar diferentes aplicaciones.
+- `System.out.println` muestra información en pantalla.
 
-**Texto en pantalla:** Tu primer reto.
+### Enlaces
 
-**Narración:**
-
-Ahora modifica el mensaje para que aparezca tu nombre y una frase que te guste.
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hola, soy Ana");
-        System.out.println("Estoy aprendiendo Java");
-    }
-}
-```
-
-Pausa el video, realiza el cambio y ejecuta tu programa.
-
-## 6. Cierre
-
-¡Excelente trabajo! Hoy aprendimos qué es la programación, conocimos Java y ejecutamos nuestro primer programa.
-
-En la siguiente lección aprenderemos a utilizar variables y tipos de datos.
-
-## 7. Recursos
-
-- Editor: [JDoodle](https://www.jdoodle.com/online-java-compiler/)
-- Archivo inicial: `starter-files/lesson-01/Main.java`
-- Ejemplo resuelto: `completed-examples/lesson-01/Main.java`
-- Video: https://youtu.be/8yNBXAotnqU
+- **Video:** https://youtu.be/8yNBXAotnqU
+- **Práctica JDoodle:** https://www.jdoodle.com/ia/6wq4-f7cf-nbr3
+- **Archivo inicial:** `starter-files/lesson-01/Main.java`
+- **Ejemplo resuelto:** `completed-examples/lesson-01/Main.java`
