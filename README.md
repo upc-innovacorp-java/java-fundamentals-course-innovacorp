@@ -63,3 +63,12 @@ java-fundamentals-course-innovacorp/
 - **completed-examples/**: contiene los ejemplos completos y soluciones de las actividades.
 - **scripts/**: contiene los guiones utilizados para desarrollar las lecciones en video.
 - **course-plan.md**: contiene el plan del curso, la secuencia de lecciones, los enlaces a los videos y las prácticas, y la información sobre la elaboración en equipo.
+
+## Herramientas necesarias
+
+- **Java:** lenguaje de programación utilizado en el curso.
+- **JDoodle:** editor de Java en línea para escribir y ejecutar los ejercicios.
+- **YouTube:** plataforma donde se encuentran los videos educativos.
+- **GitHub:** plataforma donde se almacena el código fuente y los materiales del curso.
+
+Los estudiantes únicamente necesitan un navegador web y conexión a Internet. No necesitan instalar herramientas de programación.
