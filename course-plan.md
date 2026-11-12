@@ -87,3 +87,9 @@ El curso fue desarrollado colaborativamente por los siguientes integrantes:
 | u202317807 | Fernandez Seer, Mario Alonso | Elaboración de las lecciones 6 y 7: programación orientada a objetos, arreglos y cadenas de texto. |
 
 Cada integrante es responsable de desarrollar las lecciones asignadas y proporcionar los recursos correspondientes para completar el curso.
+
+## 8. Resultado esperado
+
+Al finalizar las siete lecciones, los estudiantes tendrán una comprensión básica de los fundamentos de Java y podrán desarrollar pequeños programas utilizando variables, operadores, estructuras de control, métodos, objetos y arreglos.
+
+Además, habrán realizado ejercicios prácticos mediante un editor de código en línea y podrán consultar los archivos del repositorio para reforzar los conocimientos adquiridos.
