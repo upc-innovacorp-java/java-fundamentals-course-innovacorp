@@ -53,7 +53,7 @@ Crear un programa que determine si una persona puede ingresar según su edad. De
 
 ### Enlaces
 
-- **Video:** Pendiente de agregar.
-- **Práctica JDoodle:** Pendiente de agregar.
+- **Video:** https://youtu.be/92fJsdaynhk?si=nM5Y3gj4EQ_HxvAk 
+- **Práctica JDoodle:** https://www.jdoodle.com/ia/j9sf-ck9b-wx9z 
 - **Archivo inicial:** `starter-files/lesson-04/Main.java`
 - **Ejemplo resuelto:** `completed-examples/lesson-04/Main.java`
