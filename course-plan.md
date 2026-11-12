@@ -42,3 +42,23 @@ Al finalizar el curso, los estudiantes podrán:
 | 5 | Métodos, parámetros y entrada de datos | [PEGAR VIDEO 5] | [DURACIÓN] | [PEGAR JDoodle 5] |
 | 6 | Programación orientada a objetos | [PEGAR VIDEO 6] | [DURACIÓN] | [PEGAR JDoodle 6] |
 | 7 | Arreglos, cadenas de texto y buenas prácticas | [PEGAR VIDEO 7] | [DURACIÓN] | [PEGAR JDoodle 7] |
+
+## 5. Recursos y herramientas
+
+Para desarrollar las actividades del curso se utilizarán los siguientes recursos:
+
+- **YouTube:** Plataforma donde se publicarán los videos educativos de las siete lecciones.
+- **JDoodle:** Editor de Java en línea que permite escribir, ejecutar y probar programas desde el navegador.
+- **GitHub:** Plataforma utilizada para almacenar y organizar los archivos del curso.
+
+### Repositorio del proyecto
+
+[Java Fundamentals Course - InnovaCorp](https://github.com/upc-innovacorp-java/java-fundamentals-course-innovacorp)
+
+### Estructura del repositorio
+
+- `starter-files/`: Contiene los archivos iniciales para desarrollar las actividades.
+- `completed-examples/`: Contiene los ejemplos completos y resueltos.
+- `scripts/`: Contiene los guiones correspondientes a las siete lecciones.
+- `README.md`: Presenta el proyecto y explica cómo utilizar el repositorio.
+- `course-plan.md`: Contiene la planificación y organización del curso.
