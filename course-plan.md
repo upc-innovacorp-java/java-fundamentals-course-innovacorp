@@ -17,3 +17,16 @@ Este curso tiene como objetivo introducir a estudiantes de 12 a 17 años en los 
 A través de siete lecciones en video, los estudiantes aprenderán conceptos fundamentales, desde la introducción a la programación hasta el uso de arreglos y cadenas de texto.
 
 Cada lección presenta explicaciones sencillas, ejemplos de código y ejercicios prácticos que pueden desarrollarse directamente desde un navegador web, sin necesidad de instalar programas.
+
+## 3. Objetivos de aprendizaje
+
+Al finalizar el curso, los estudiantes podrán:
+
+- Comprender qué es la programación y para qué sirve Java.
+- Escribir y ejecutar su primer programa en Java.
+- Declarar y utilizar variables y tipos de datos.
+- Aplicar operadores aritméticos, relacionales y lógicos.
+- Utilizar estructuras condicionales y repetitivas.
+- Crear métodos y utilizar parámetros.
+- Comprender los conceptos básicos de la programación orientada a objetos.
+- Trabajar con arreglos y cadenas de texto.
