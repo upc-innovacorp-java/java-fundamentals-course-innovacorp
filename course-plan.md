@@ -75,3 +75,15 @@ La estructura general de cada lección es la siguiente:
 5. Recapitulación de los conceptos aprendidos.
 
 Los estudiantes podrán practicar directamente desde el navegador, ejecutar sus programas y consultar los ejemplos resueltos disponibles en GitHub.
+
+## 7. Elaboración y contribución del equipo
+
+El curso fue desarrollado colaborativamente por los siguientes integrantes:
+
+| Código de estudiante | Integrante | Contribución |
+|---|---|---|
+| u20241f577 | Rivera Aguilar, Scarlet Josefina | Elaboración de las lecciones 1, 2 y 3: introducción a la programación, variables y tipos de datos, operadores y expresiones. |
+| u20241b962 | Navarro Aldoradin, Carolina Celeste | Elaboración de las lecciones 4 y 5: estructuras de control, métodos, parámetros y entrada de datos. |
+| u202317807 | Fernandez Seer, Mario Alonso | Elaboración de las lecciones 6 y 7: programación orientada a objetos, arreglos y cadenas de texto. |
+
+Cada integrante es responsable de desarrollar las lecciones asignadas y proporcionar los recursos correspondientes para completar el curso.
