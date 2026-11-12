@@ -72,3 +72,16 @@ java-fundamentals-course-innovacorp/
 - **GitHub:** plataforma donde se almacena el código fuente y los materiales del curso.
 
 Los estudiantes únicamente necesitan un navegador web y conexión a Internet. No necesitan instalar herramientas de programación.
+
+## Instrucciones de configuración y uso
+
+1. Clona o descarga este repositorio desde GitHub.
+2. Abre la carpeta `starter-files/`.
+3. Selecciona la carpeta de la lección que deseas desarrollar.
+4. Abre el archivo Java correspondiente.
+5. Ingresa a [JDoodle - Java Online Compiler](https://www.jdoodle.com/online-java-compiler/).
+6. Selecciona Java y copia el código del archivo inicial.
+7. Completa las actividades y ejecuta el programa.
+8. Compara tu resultado con el ejemplo correspondiente de `completed-examples/`.
+
+Puedes consultar los guiones de las lecciones en la carpeta `scripts/`.
