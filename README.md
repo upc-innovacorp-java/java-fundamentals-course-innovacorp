@@ -21,3 +21,39 @@ El curso comprende siete lecciones:
 5. Métodos, parámetros y entrada de datos.
 6. Programación orientada a objetos.
 7. Arreglos, cadenas de texto y buenas prácticas.
+
+## Estructura del repositorio
+
+```text
+java-fundamentals-course-innovacorp/
+│
+├── starter-files/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   ├── lesson-06/
+│   └── lesson-07/
+│
+├── completed-examples/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   ├── lesson-04/
+│   ├── lesson-05/
+│   ├── lesson-06/
+│   └── lesson-07/
+│
+├── scripts/
+│   ├── lesson-01-script.md
+│   ├── lesson-02-script.md
+│   ├── lesson-03-script.md
+│   ├── lesson-04-script.md
+│   ├── lesson-05-script.md
+│   ├── lesson-06-script.md
+│   └── lesson-07-script.md
+│
+├── course-plan.md
+└── README.md
+```
