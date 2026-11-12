@@ -30,3 +30,15 @@ Al finalizar el curso, los estudiantes podrán:
 - Crear métodos y utilizar parámetros.
 - Comprender los conceptos básicos de la programación orientada a objetos.
 - Trabajar con arreglos y cadenas de texto.
+
+## 4. Secuencia de lecciones
+
+| N.º | Lección | Video de YouTube | Duración | Práctica en JDoodle |
+|---|---|---|---|---|
+| 1 | Introducción a la programación y primeros pasos con Java | [Ver lección 1](https://youtu.be/8yNBXAotnqU) | 5:19 | [Abrir práctica 1](https://www.jdoodle.com/ia/6wq4-f7cf-nbr3) |
+| 2 | Variables y tipos de datos en Java | [Ver lección 2](https://youtu.be/_RuN5bcLtig) | 9:34 | [Abrir práctica 2](https://www.jdoodle.com/ia/7u6x-6ubx-zfzs) |
+| 3 | Operadores y expresiones en Java | [Ver lección 3](https://youtu.be/oE_QpTh7jp8) | 7:47 | [Abrir práctica 3](https://www.jdoodle.com/ia/jd2p-tudv-vdfc) |
+| 4 | Estructuras de control | [PEGAR VIDEO 4] | [DURACIÓN] | [PEGAR JDoodle 4] |
+| 5 | Métodos, parámetros y entrada de datos | [PEGAR VIDEO 5] | [DURACIÓN] | [PEGAR JDoodle 5] |
+| 6 | Programación orientada a objetos | [PEGAR VIDEO 6] | [DURACIÓN] | [PEGAR JDoodle 6] |
+| 7 | Arreglos, cadenas de texto y buenas prácticas | [PEGAR VIDEO 7] | [DURACIÓN] | [PEGAR JDoodle 7] |
