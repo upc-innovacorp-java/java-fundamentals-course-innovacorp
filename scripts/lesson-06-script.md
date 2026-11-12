@@ -65,7 +65,7 @@ Crear una clase `Producto` con atributos privados `nombre` y `precio`. Agregar u
 
 ### Enlaces
 
-- **Video:** Pendiente de agregar.
-- **Práctica JDoodle:** Pendiente de agregar.
+- **Video:** https://youtu.be/jCM_Qmd4qT4?si=9RQKQx3tCqwWaBIo
+- **Práctica JDoodle:** https://www.jdoodle.com/ia/pgjx-8w4f-mkyg 
 - **Archivo inicial:** `starter-files/lesson-06/Main.java`
 - **Ejemplo resuelto:** `completed-examples/lesson-06/Main.java`
