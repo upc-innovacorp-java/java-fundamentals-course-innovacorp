@@ -70,7 +70,7 @@ Agregar un nuevo estudiante al arreglo modificando el código. Después, mostrar
 
 ### Enlaces
 
-- **Video:** Pendiente de agregar.
-- **Práctica JDoodle:** Pendiente de agregar.
+- **Video:** https://youtu.be/7UZRzTmSBvI?si=VdVNVMrTVUnLrFY- 
+- **Práctica JDoodle:** https://www.jdoodle.com/ia/rjnj-y9hg-nbr9  
 - **Archivo inicial:** `starter-files/lesson-07/Main.java`
 - **Ejemplo resuelto:** `completed-examples/lesson-07/Main.java`
