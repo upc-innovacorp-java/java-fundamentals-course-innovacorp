@@ -64,7 +64,7 @@ Crear un método que calcule el doble de un número y solicitar al usuario el n�
 
 ### Enlaces
 
-- **Video:** Pendiente de agregar.
-- **Práctica JDoodle:** Pendiente de agregar.
+- **Video:** https://youtu.be/2U88gFuuBas?si=KKEUR86D3HdOKkrS
+- **Práctica JDoodle:** https://www.jdoodle.com/ia/9kc3-k79q-ksqm 
 - **Archivo inicial:** `starter-files/lesson-05/Main.java`
 - **Ejemplo resuelto:** `completed-examples/lesson-05/Main.java`
