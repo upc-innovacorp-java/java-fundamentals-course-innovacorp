@@ -89,3 +89,7 @@ Puedes consultar los guiones de las lecciones en la carpeta `scripts/`.
 ## Plan del curso
 
 Para consultar la descripción completa, los objetivos de aprendizaje, la secuencia de lecciones y los recursos prácticos, revisa el documento [course-plan.md](course-plan.md).
+
+## Repositorio de GitHub
+
+[Java Fundamentals Course - InnovaCorp](https://github.com/upc-innovacorp-java/java-fundamentals-course-innovacorp)
