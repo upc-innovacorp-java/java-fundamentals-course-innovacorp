@@ -38,11 +38,10 @@ Al finalizar el curso, los estudiantes podrán:
 | 1 | Introducción a la programación y primeros pasos con Java | [Ver lección 1](https://youtu.be/8yNBXAotnqU) | 5:19 | [Abrir práctica 1](https://www.jdoodle.com/ia/6wq4-f7cf-nbr3) |
 | 2 | Variables y tipos de datos en Java | [Ver lección 2](https://youtu.be/_RuN5bcLtig) | 9:34 | [Abrir práctica 2](https://www.jdoodle.com/ia/7u6x-6ubx-zfzs) |
 | 3 | Operadores y expresiones en Java | [Ver lección 3](https://youtu.be/oE_QpTh7jp8) | 7:47 | [Abrir práctica 3](https://www.jdoodle.com/ia/jd2p-tudv-vdfc) |
-| 4 | Estructuras de control | [PEGAR VIDEO 4] | [DURACIÓN] | [PEGAR JDoodle 4] |
-| 5 | Métodos, parámetros y entrada de datos | [PEGAR VIDEO 5] | [DURACIÓN] | [PEGAR JDoodle 5] |
-| 6 | Programación orientada a objetos | [PEGAR VIDEO 6] | [DURACIÓN] | [PEGAR JDoodle 6] |
-| 7 | Arreglos, cadenas de texto y buenas prácticas | [PEGAR VIDEO 7] | [DURACIÓN] | [PEGAR JDoodle 7] |
-
+| 4 | Estructuras de control: decisiones y ciclos | [Ver lección 4](https://youtu.be/92fJsdaynhk) | 5:30 | [Abrir práctica 4](https://www.jdoodle.com/ia/j9sf-ck9b-wx9z) |
+| 5 | Métodos, parámetros y entrada de datos | [Ver lección 5](https://youtu.be/2U88gFuuBas) | 4:59 | [Abrir práctica 5](https://www.jdoodle.com/ia/9kc3-k79q-ksqm) |
+| 6 | Programación orientada a objetos: clases y objetos | [Ver lección 6](https://youtu.be/jCM_Qmd4qT4) | 6:48 | [Abrir práctica 6](https://www.jdoodle.com/ia/pgjx-8w4f-mkyg) |
+| 7 | Arreglos, cadenas de texto y buenas prácticas | [Ver lección 7](https://youtu.be/7UZRzTmSBvI) | 5:35 | [Abrir práctica 7](https://www.jdoodle.com/ia/rjnj-y9hg-nbr9) |
 ## 5. Recursos y herramientas
 
 Para desarrollar las actividades del curso se utilizarán los siguientes recursos:
@@ -90,8 +89,7 @@ Cada integrante es responsable de desarrollar las lecciones asignadas y proporci
 
 ## 8. Resultado esperado
 
-Al finalizar las siete lecciones, los estudiantes tendrán una comprensión básica de los fundamentos de Java y podrán desarrollar pequeños programas utilizando variables, operadores, estructuras de control, métodos, objetos y arreglos.
-Además, habrán realizado ejercicios prácticos mediante un editor de código en línea y podrán consultar los archivos del repositorio para reforzar los conocimientos adquiridos.
+Al finalizar las siete lecciones, los estudiantes tendrán una comprensión básica de los fundamentos de Java y podrán desarrollar pequeños programas utilizando variables, operadores, estructuras de control, métodos, objetos y arreglos. zAdemás, habrán realizado ejercicios prácticos mediante un editor de código en línea y podrán consultar los archivos del repositorio para reforzar los conocimientos adquiridos.
 ---
 
 **Equipo:** InnovaCorp  
